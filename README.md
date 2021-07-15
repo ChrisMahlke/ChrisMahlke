@@ -1,5 +1,4 @@
-##### My name is Chris.
-##### I am a Product Engineer at Esri.
+I work with a talented group of Cartographers, GIS professionals, and Developers at Esri.
 
 <!--
 **ChrisMahlke/ChrisMahlke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
