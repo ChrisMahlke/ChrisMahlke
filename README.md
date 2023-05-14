@@ -1,4 +1,6 @@
-I'm passionate about Geographic Information Systems, Artifical Intelligence, Deep Learning, and Machine Learning. I have previously worked in the fields of GIS.
+I'm passionate about Geographic Information Systems and Artifical Intelligence.
+
+I have previously worked in the fields of GIS.
 
 ### Connect
 
