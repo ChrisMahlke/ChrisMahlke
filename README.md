@@ -1,6 +1,6 @@
 I'm passionate about Geographic Information Systems and Artifical Intelligence.
 
-I have previously worked in the fields of GIS.
+I have previously worked in the field of GIS.
 
 ### Connect
 
