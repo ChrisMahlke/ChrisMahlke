@@ -1,12 +1,10 @@
-I'm passionate about Geographic Information Systems (GIS) and Artificial Intelligence (AI).
+I'm passionate about application and software developement.
 
-I have previously worked in the field of GIS.
+I have previously worked in the field of Geographic Information Systems (GIS).
 
 ### Connect
 
-<a href="[https://linkedin.amanchadha.com/](https://www.linkedin.com/in/chris-mahlke/)">
-  <img align="left" alt="Chris Mahlke's LinkedIn" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" />
-</a>
+<a href="[https://www.linkedin.com/in/chris-mahlke/](https://www.linkedin.com/in/chris-mahlke/)">Connect</a>
 <br/>
 
 ### GitHub Stats
