@@ -1,4 +1,4 @@
-I'm passionate about Geographic Information Systems and Artificial Intelligence.
+I'm passionate about Geographic Information Systems (GIS) and Artificial Intelligence (AI).
 
 I have previously worked in the field of GIS.
 
