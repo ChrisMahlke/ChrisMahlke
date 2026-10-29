@@ -4,7 +4,7 @@ Software engineer in the San Francisco Bay Area, working on how people use AI sy
 
 ## Current work
 
-- Building geospatial AI applications on Claude, Gemini and the OpenAI Responses API, with tool calling and external data.
+- Building geospatial AI applications on the Claude API, the Gemini API and the OpenAI Responses API, with tool calling and external data.
 - Developing agent workflows with the Model Context Protocol (MCP), dynamic tool discovery and Google Maps grounding, so models can reach services and location data.
 - Studying how operators, reviewers and field teams actually work with models and agents, then shipping the interfaces that follow.
 
