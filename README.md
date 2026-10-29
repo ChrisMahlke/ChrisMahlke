@@ -1,6 +1,4 @@
-# Chris Mahlke
-
-Software engineer in the San Francisco Bay Area, working on how people use AI systems and on the interfaces and agent workflows that connect models to real data.
+Application Developer working on how people use AI systems and on the interfaces and agent workflows that connect models to real data.
 
 ## Current work
 
