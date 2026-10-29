@@ -1,6 +1,6 @@
 # Chris Mahlke
 
-Software engineer in the San Francisco Bay Area, working on how people use AI systems and on the interfaces and agent workflows that connect models to real data. I run [M10](https://m10design.ai.studio), an applied R&D studio for UX research and design engineering on AI systems.
+Software engineer in the San Francisco Bay Area, working on how people use AI systems and on the interfaces and agent workflows that connect models to real data.
 
 ## Current work
 
