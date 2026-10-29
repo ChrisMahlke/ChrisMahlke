@@ -21,8 +21,8 @@ Software engineer in the San Francisco Bay Area, working on how people use AI sy
 ## Recognition
 
 - First place, 2025 C3 Agentic Hackathon.
-- Winner of a company-wide competition at C3 AI to fine-tune its internal LLM, judged on how much the model's grasp of the C3 AI Platform improved.
-- Winner, Google Maps Platform Hackathon, Art of the Map.
+- First place in a company-wide competition at C3 AI to fine-tune its internal LLM, judged on how much the model's grasp of the C3 AI Platform improved.
+- First place, Google Maps Platform Hackathon, Art of the Map.
 
 ## Apps
 
